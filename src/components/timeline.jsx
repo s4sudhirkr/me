@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineer at CRMNEXT <span>May-2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <p>I recently have joined the CRMNEXT as a Software Engineer in the Datanext team. My major part of the work has been into the field of creating sustainable and flexible Web & RestAPI which enables developers at CRMNEXT to create pipelines. I am also exploring the role of container technology like Docker,  and handingdatabase using SQL/MYSQL, MongoDB, Cassandra to create industry standard production environments.</p>
                       </div>
                     </div>
                   </article>
@@ -55,7 +55,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Primary and Higher Education <span>2000-2013</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with  merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
                       </div>
                     </div>
                   </article>
