@@ -21,6 +21,17 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
+                        <h2>Lead Software Engineer at Wipro <span>January-2022-present</span></h2>
+                        <p>I am working asLead Software Engineer in the Entrust. My major part of the work has been into the field of creating sustainable and flexible Web & RestAPI which enables developers at CRMNEXT to create pipelines. I am also exploring the role of container technology like Docker,  and handingdatabase using SQL/MYSQL, MongoDB, Cassandra to create industry standard production environments.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
                         <h2>Software Engineer at CRMNEXT <span>May-2019- Feburary 2021</span></h2>
                         <p>I recently have joined the CRMNEXT as a Software Engineer in the Datanext team. My major part of the work has been into the field of creating sustainable and flexible Web & RestAPI which enables developers at CRMNEXT to create pipelines. I am also exploring the role of container technology like Docker,  and handingdatabase using SQL/MYSQL, MongoDB, Cassandra to create industry standard production environments.</p>
                       </div>
